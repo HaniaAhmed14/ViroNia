@@ -1,5 +1,5 @@
-# ViroNia: HCV Protein Classification Model
-Welcome to the HCV Protein Classification Model! This project aims to classify different types of HCV (Hepatitis C Virus) proteins using a machine learning model. Here’s a straightforward guide to understanding and using this project.
+# ViroNia: HCV Protein Prediction Model
+Welcome to the HCV Protein Prediction Model! This project aims to classify different types of HCV (Hepatitis C Virus) proteins using a machine learning model. Here’s a straightforward guide to understanding and using this project.
 
 **What is this Project?**
 
