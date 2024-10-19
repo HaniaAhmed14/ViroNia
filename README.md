@@ -26,9 +26,10 @@ Run the Jupyter Notebook: Open the Jupyter Notebook file (protein_prediction.ipy
 Input Your Data: Provide your protein sequences as input to the model.
 
 Get Results: The model will output the predicted protein type for each sequence.
+Cmpare the Model with SimpleRNN, BiLSTM, GRU (code available in repo)
 
 Files in This Repository
-ViroNia_classification_model_HCV.ipynb: The Jupyter Notebook containing the LSTM model and code for classification.
+protein_prediction.ipynb: The Jupyter Notebook containing the LSTM model and code for classification.
 README.md: This file, providing information about the project.
 
 **How to Contribute**
