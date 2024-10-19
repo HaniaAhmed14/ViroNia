@@ -21,7 +21,7 @@ To use this model, follow these steps:
 
 **Install Dependencies:** Make sure you have Python and the necessary libraries installed. You’ll need: numpy, pandas, tensorflow, scikit-learn
 
-Run the Jupyter Notebook: Open the Jupyter Notebook file (HCV_Protein_Classifier.ipynb) to see the code and run the model.
+Run the Jupyter Notebook: Open the Jupyter Notebook file (protein_prediction.ipynb) to see the code and run the model.
 
 Input Your Data: Provide your protein sequences as input to the model.
 
